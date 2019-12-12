@@ -1,6 +1,6 @@
 spring:
   application:
-    name: importfile-service
+    name: uploadexcel-service
 
   jpa: 
     database: mysql
