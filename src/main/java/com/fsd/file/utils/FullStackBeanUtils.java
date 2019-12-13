@@ -1,4 +1,4 @@
-package com.smc.file.utils;
+package com.fsd.file.utils;
 
 import javax.servlet.http.HttpServletRequest;
 

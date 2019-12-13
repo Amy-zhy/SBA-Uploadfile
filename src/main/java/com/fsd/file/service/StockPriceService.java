@@ -1,10 +1,10 @@
-package com.smc.file.service;
+package com.fsd.file.service;
 
-import com.smc.file.entity.StockPriceEntity;
-import com.smc.file.repository.CompanyRepository;
-import com.smc.file.repository.StockPriceRepository;
-import com.smc.file.utils.CommonResult;
-import com.smc.file.utils.ResponseCode;
+import com.fsd.file.entity.StockPriceEntity;
+import com.fsd.file.repository.CompanyRepository;
+import com.fsd.file.repository.StockPriceRepository;
+import com.fsd.file.utils.CommonResult;
+import com.fsd.file.utils.ResponseCode;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;

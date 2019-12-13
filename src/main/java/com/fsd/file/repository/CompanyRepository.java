@@ -1,7 +1,7 @@
-package com.smc.file.repository;
+package com.fsd.file.repository;
 
-import com.smc.file.entity.CompanyEntity;
-import com.smc.file.entity.StockPriceEntity;
+import com.fsd.file.entity.CompanyEntity;
+import com.fsd.file.entity.StockPriceEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 

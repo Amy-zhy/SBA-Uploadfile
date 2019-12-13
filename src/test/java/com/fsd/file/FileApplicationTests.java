@@ -1,9 +1,9 @@
-package com.smc.file;
+package com.fsd.file;
 
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
-import com.smc.file.utils.CommonResult;
+import com.fsd.file.utils.CommonResult;
 
 @SpringBootTest
 class FileApplicationTests {

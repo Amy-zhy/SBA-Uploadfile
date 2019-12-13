@@ -1,4 +1,4 @@
-package com.smc.file;
+package com.fsd.file;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

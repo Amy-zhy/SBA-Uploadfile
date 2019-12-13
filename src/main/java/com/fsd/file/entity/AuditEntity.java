@@ -1,4 +1,4 @@
-package com.smc.file.entity;
+package com.fsd.file.entity;
 
 import javax.persistence.EntityListeners;
 

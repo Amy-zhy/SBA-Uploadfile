@@ -1,4 +1,4 @@
-package com.smc.file.utils;
+package com.fsd.file.utils;
 
 /**
  * @version 1.0
