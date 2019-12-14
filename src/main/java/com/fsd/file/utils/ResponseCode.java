@@ -2,7 +2,7 @@ package com.fsd.file.utils;
 
 /**
  * @version 1.0
- * @Author yuchaozh
+ * @Author HongYu Zhang
  * @description 自定义响应码
  */
 public class ResponseCode {

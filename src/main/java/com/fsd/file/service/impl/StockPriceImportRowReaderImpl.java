@@ -14,7 +14,7 @@ import org.slf4j.LoggerFactory;
 /**
  * @ClassName StockPriceImportRowReaderImpl
  * @Description TODO
- * @Author YuChaoZheng
+ * @Author HongYu Zhang
  * @Date 12/3/2019 12:40 PM
  * @Version 1.0
  **/

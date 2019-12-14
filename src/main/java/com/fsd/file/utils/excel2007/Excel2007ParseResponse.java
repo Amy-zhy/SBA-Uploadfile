@@ -4,7 +4,7 @@ import java.util.List;
 
 /**
  * @version 1.0
- * @Author yuchaozh
+ * @Author HongYu Zhang
  * @description excel 响应实体
  */
 public class Excel2007ParseResponse<T> {

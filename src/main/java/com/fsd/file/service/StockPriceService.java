@@ -14,7 +14,7 @@ import org.springframework.stereotype.Service;
 /**
  * @ClassName StockPriceService
  * @Description TODO
- * @Author YuChaoZheng
+ * @Author HongYu Zhang
  * @Date 12/3/2019 9:40 AM
  * @Version 1.0
  **/

@@ -21,7 +21,7 @@ import org.xml.sax.helpers.XMLReaderFactory;
 
 /**
  * @version 1.0
- * @Author yuchaozh
+ * @Author HongYu Zhang
  * @description 抽象Excel2007读取器，excel2007的底层数据结构是xml文件，采用SAX的事件驱动的方法解析 *
  * xml，需要继承DefaultHandler，在遇到文件内容时，事件会触发，这种做法可以大大降低 内存的耗费，特别使用于大数据量的文件。
  */
